@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-s-h-o-k
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning FullStack Development
+- 🌱 I'm a FullStack Developer
 - 💞️ I’m looking to collaborate on FullStack Web Development
 - 📫 My emial ammineniashok0@gmail.com
 
